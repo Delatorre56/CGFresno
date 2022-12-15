@@ -29,7 +29,7 @@ nav ul li{
         color: red;
     }
 main{
-    background: url("cglogo.jpg");
+    background: url("../cglogo.jpg");
     position: relative;
     width: 800px;
     height: 800px;
@@ -214,3 +214,4 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
     width: 100%;
 
+}
