@@ -29,7 +29,7 @@ nav ul li{
         color: red;
     }
 main{
-    background: url("/cglogo.jpg");
+    background: url("./cglogo.jpg");
     position: relative;
     width: 800px;
     height: 800px;
